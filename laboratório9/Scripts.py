@@ -20,3 +20,6 @@ escada = ""
 for letra in nome:
     escada = escada + letra
     print(escada)
+
+#questão 04 
+    
